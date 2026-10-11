@@ -1,0 +1,5 @@
+First fruit: apple
+Last fruit: mango
+After append: ['apple', 'banana', 'cherry', 'mango', 'orange']
+After remove: ['apple', 'cherry', 'mango', 'orange']
+Number of fruits: 4

@@ -1,0 +1,18 @@
+Welcome to your Shopping List Manager!
+Commands: add / remove / show / done
+
+What would you like to do? Enter the item to add: Added 'bread'.
+
+What would you like to do? Enter the item to add: Added 'milk'.
+
+What would you like to do? Enter the item to add: Added 'eggs'.
+
+What would you like to do? Enter the item to remove: Removed 'milk'.
+
+What would you like to do? Enter the item to remove: That item is not on your list.
+
+What would you like to do? Your shopping list:
+  1. bread
+  2. eggs
+
+What would you like to do? Goodbye!

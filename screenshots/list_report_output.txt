@@ -1,0 +1,9 @@
+Numbered list:
+  1. bread
+  2. avocado
+  3. milk
+  4. sweet potatoes
+  5. tea
+
+Items with more than 4 letters: 3
+Longest item name: sweet potatoes

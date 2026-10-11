@@ -37,8 +37,6 @@ Calling `.remove(x)` on a list that doesn't contain `x` raises a `ValueError` an
     After remove: ['apple', 'cherry', 'mango', 'orange']
     Number of fruits: 4
 
-`shopping_list.py` — interactive; the exact output depends on what you type.
-
 `list_report.py`:
 
     Numbered list:
